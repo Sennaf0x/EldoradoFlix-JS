@@ -6,7 +6,7 @@ Site elaborado durante o curso do instituto eldorado de angular/node.js/AWS util
 
 - Clonar o projeto no repositório do github.
 
-- Instalar por meio do comando npm install, conforme package.json:
+- Instalar por meio do comando npm install o node_modules e as seguintes bibliotecas, conforme package.json:
 
     "axios": "^0.24.0",
     "cors": "^2.8.5",
@@ -17,4 +17,4 @@ Site elaborado durante o curso do instituto eldorado de angular/node.js/AWS util
 
 - iniciar o nodemon através do comando npm start.
 
-- Iniciar o live server.
+- Iniciar o live server (Baixar extensão para o VScode).
